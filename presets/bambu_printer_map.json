@@ -1,0 +1,2570 @@
+[
+ {
+  "model": "Bambu Lab X1 Carbon",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab X1 Carbon 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab X1 Carbon 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL X1C",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL X1C",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL X1C",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab X1 Carbon 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL X1C 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Strength @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.36mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.36,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.42mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.42,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab X1 Carbon 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL X1C 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.48mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.48,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.56mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.56,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "X1C"
+ },
+ {
+  "model": "Bambu Lab X1",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab X1 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab X1 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL X1C",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL X1C",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL X1C",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab X1 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL X1 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.30mm Standard @BBL X1 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab X1 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL X1 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.40mm Standard @BBL X1 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "X1"
+ },
+ {
+  "model": "Bambu Lab X1E",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab X1E 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab X1E 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL X1C",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL X1C",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL X1C",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab X1E 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL X1C 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Strength @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.36mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.36,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.42mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.42,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab X1E 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL X1C 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.48mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.48,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.56mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.56,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "X1C"
+ },
+ {
+  "model": "Bambu Lab P1S",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab P1S 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Standard @BBL X1C 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab P1S 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL X1C",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL X1C",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL X1C",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL X1C",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL X1C",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL X1C",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL X1C",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab P1S 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL X1C 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Strength @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.36mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.36,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.42mm Standard @BBL X1C 0.6 nozzle",
+      "layer_mm": 0.42,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab P1S 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL X1C 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.48mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.48,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.56mm Standard @BBL X1C 0.8 nozzle",
+      "layer_mm": 0.56,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "X1C"
+ },
+ {
+  "model": "Bambu Lab P1P",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab P1P 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL P1P 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm Fine @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Fine",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm High Quality @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Optimal @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Optimal",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Draft @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Draft",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Extra Draft @BBL P1P 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab P1P 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL P1P",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL P1P",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL P1P",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL P1P",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL P1P",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL P1P",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL P1P",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL P1P",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL P1P",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL P1P",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL P1P",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab P1P 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL P1P 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Fine @BBL P1P 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Fine",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Optimal @BBL P1P 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Optimal",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL P1P 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Strength @BBL P1P 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.36mm Draft @BBL P1P 0.6 nozzle",
+      "layer_mm": 0.36,
+      "label": "Draft",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.42mm Extra Draft @BBL P1P 0.6 nozzle",
+      "layer_mm": 0.42,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab P1P 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL P1P 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Fine @BBL P1P 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Fine",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Optimal @BBL P1P 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Optimal",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL P1P 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.48mm Draft @BBL P1P 0.8 nozzle",
+      "layer_mm": 0.48,
+      "label": "Draft",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.56mm Extra Draft @BBL P1P 0.8 nozzle",
+      "layer_mm": 0.56,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "P1P"
+ },
+ {
+  "model": "Bambu Lab A1",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab A1 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL A1 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm Fine @BBL A1 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Fine",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm High Quality @BBL A1 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL A1 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Optimal @BBL A1 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Optimal",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL A1 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL A1 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Draft @BBL A1 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Draft",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Extra Draft @BBL A1 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab A1 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL A1",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL A1",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL A1",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL A1",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL A1",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL A1",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL A1",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL A1",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL A1",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL A1",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL A1",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab A1 0.6 nozzle",
+    "process_id": "0.30mm Strength @BBL A1 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Fine @BBL A1 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Fine",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Optimal @BBL A1 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Optimal",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL A1 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Strength @BBL A1 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.36mm Draft @BBL A1 0.6 nozzle",
+      "layer_mm": 0.36,
+      "label": "Draft",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.42mm Extra Draft @BBL A1 0.6 nozzle",
+      "layer_mm": 0.42,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab A1 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL A1 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Fine @BBL A1 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Fine",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Optimal @BBL A1 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Optimal",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL A1 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.48mm Draft @BBL A1 0.8 nozzle",
+      "layer_mm": 0.48,
+      "label": "Draft",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.56mm Extra Draft @BBL A1 0.8 nozzle",
+      "layer_mm": 0.56,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "A1"
+ },
+ {
+  "model": "Bambu Lab A1 mini",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab A1 mini 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL A1M 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.06mm Fine @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "Fine",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.06mm High Quality @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.06,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.08mm Optimal @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Optimal",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm High Quality @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Draft @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Draft",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.14mm Extra Draft @BBL A1M 0.2 nozzle",
+      "layer_mm": 0.14,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab A1 mini 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL A1M",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL A1M",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.08mm High Quality @BBL A1M",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL A1M",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL A1M",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL A1M",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Optimal @BBL A1M",
+      "layer_mm": 0.16,
+      "label": "Optimal",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL A1M",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Strength @BBL A1M",
+      "layer_mm": 0.2,
+      "label": "Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Draft @BBL A1M",
+      "layer_mm": 0.24,
+      "label": "Draft",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.28mm Extra Draft @BBL A1M",
+      "layer_mm": 0.28,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab A1 mini 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL A1M 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Fine @BBL A1M 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Fine",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Optimal @BBL A1M 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Optimal",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL A1M 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Strength @BBL A1M 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.36mm Draft @BBL A1M 0.6 nozzle",
+      "layer_mm": 0.36,
+      "label": "Draft",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.42mm Extra Draft @BBL A1M 0.6 nozzle",
+      "layer_mm": 0.42,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab A1 mini 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL A1M 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Fine @BBL A1M 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Fine",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Optimal @BBL A1M 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Optimal",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL A1M 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.48mm Draft @BBL A1M 0.8 nozzle",
+      "layer_mm": 0.48,
+      "label": "Draft",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.56mm Extra Draft @BBL A1M 0.8 nozzle",
+      "layer_mm": 0.56,
+      "label": "Extra Draft",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "A1M"
+ },
+ {
+  "model": "Bambu Lab H2D",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab H2D 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL H2D 0.2 nozzle",
+    "dual": true,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL H2D 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL H2D 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL H2D 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab H2D 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL H2D",
+    "dual": true,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL H2D",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL H2D",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Balanced Quality @BBL H2D",
+      "layer_mm": 0.16,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL H2D",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Balanced Strength @BBL H2D",
+      "layer_mm": 0.2,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL H2D",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL H2D",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab H2D 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL H2D 0.6 nozzle",
+    "dual": true,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL H2D 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Strength @BBL H2D 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL H2D 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab H2D 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL H2D 0.8 nozzle",
+    "dual": true,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H2D 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Strength @BBL H2D 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL H2D 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "H2D"
+ },
+ {
+  "model": "Bambu Lab H2D Pro",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab H2D Pro 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL H2DP 0.2 nozzle",
+    "dual": true,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL H2DP 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL H2DP 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL H2DP 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab H2D Pro 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL H2DP",
+    "dual": true,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm Extra Fine @BBL H2DP",
+      "layer_mm": 0.08,
+      "label": "Extra Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm Fine @BBL H2DP",
+      "layer_mm": 0.12,
+      "label": "Fine",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Balanced Quality @BBL H2DP",
+      "layer_mm": 0.16,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL H2DP",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Balanced Strength @BBL H2DP",
+      "layer_mm": 0.2,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL H2DP",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL H2DP",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab H2D Pro 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL H2DP 0.6 nozzle",
+    "dual": true,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL H2DP 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Strength @BBL H2DP 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL H2DP 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab H2D Pro 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL H2DP 0.8 nozzle",
+    "dual": true,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H2DP 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Strength @BBL H2DP 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL H2DP 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "H2DP"
+ },
+ {
+  "model": "Bambu Lab H2S",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab H2S 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL H2S 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL H2S 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL H2S 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL H2S 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab H2S 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL H2S",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL H2S",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL H2S",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL H2S",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL H2S",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm High Quality @BBL H2S",
+      "layer_mm": 0.2,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL H2S",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL H2S",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab H2S 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL H2S 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL H2S 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H2S 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL H2S 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab H2S 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL H2S 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H2S 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Quality @BBL H2S 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL H2S 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "H2S"
+ },
+ {
+  "model": "Bambu Lab H2C",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab H2C 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL H2C 0.2 nozzle",
+    "dual": true,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL H2C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL H2C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL H2C 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab H2C 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL H2C",
+    "dual": true,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL H2C",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL H2C",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL H2C",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL H2C",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm High Quality @BBL H2C",
+      "layer_mm": 0.2,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL H2C",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL H2C",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab H2C 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL H2C 0.6 nozzle",
+    "dual": true,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL H2C 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Strength @BBL H2C 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL H2C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab H2C 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL H2C 0.8 nozzle",
+    "dual": true,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H2C 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Strength @BBL H2C 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Strength",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL H2C 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "H2C"
+ },
+ {
+  "model": "Bambu Lab P2S",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab P2S 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL P2S 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL P2S 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL P2S 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL P2S 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab P2S 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL P2S",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL P2S",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL P2S",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL P2S",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL P2S",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm High Quality @BBL P2S",
+      "layer_mm": 0.2,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL P2S",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL P2S",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab P2S 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL P2S 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL P2S 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Quality @BBL P2S 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL P2S 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab P2S 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL P2S 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL P2S 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Quality @BBL P2S 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL P2S 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "P2S"
+ },
+ {
+  "model": "Bambu Lab X2D",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab X2D 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL X2D 0.2 nozzle",
+    "dual": true,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL X2D 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL X2D 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL X2D 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab X2D 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL X2D",
+    "dual": true,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL X2D",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL X2D",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL X2D",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL X2D",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm High Quality @BBL X2D",
+      "layer_mm": 0.2,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL X2D",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL X2D",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab X2D 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL X2D 0.6 nozzle",
+    "dual": true,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL X2D 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Quality @BBL X2D 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL X2D 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab X2D 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL X2D 0.8 nozzle",
+    "dual": true,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL X2D 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Quality @BBL X2D 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL X2D 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "X2D"
+ },
+ {
+  "model": "Bambu Lab A2L",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab A2L 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL A2L 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL A2L 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL A2L 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL A2L 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab A2L 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL A2L",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL A2L",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL A2L",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL A2L",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL A2L",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm High Quality @BBL A2L",
+      "layer_mm": 0.2,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL A2L",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Steady @BBL A2L",
+      "layer_mm": 0.2,
+      "label": "Steady",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL A2L",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab A2L 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL A2L 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL A2L 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Quality @BBL A2L 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL A2L 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab A2L 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL A2L 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL A2L 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Quality @BBL A2L 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL A2L 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "A2L"
+ },
+ {
+  "model": "Bambu Lab H3C",
+  "nozzles": [
+   {
+    "nozzle": "0.2",
+    "printer_id": "Bambu Lab H3C 0.2 nozzle",
+    "process_id": "0.10mm Standard @BBL H3C 0.2 nozzle",
+    "dual": false,
+    "line_width_mm": 0.22,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL H3C 0.2 nozzle",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.10mm Standard @BBL H3C 0.2 nozzle",
+      "layer_mm": 0.1,
+      "label": "Standard",
+      "initial_layer_mm": 0.1
+     },
+     {
+      "process_id": "0.12mm Balanced Quality @BBL H3C 0.2 nozzle",
+      "layer_mm": 0.12,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.1
+     }
+    ]
+   },
+   {
+    "nozzle": "0.4",
+    "printer_id": "Bambu Lab H3C 0.4 nozzle",
+    "process_id": "0.20mm Standard @BBL H3C",
+    "dual": false,
+    "line_width_mm": 0.42,
+    "processes": [
+     {
+      "process_id": "0.08mm High Quality @BBL H3C",
+      "layer_mm": 0.08,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.12mm High Quality @BBL H3C",
+      "layer_mm": 0.12,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm High Quality @BBL H3C",
+      "layer_mm": 0.16,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.16mm Standard @BBL H3C",
+      "layer_mm": 0.16,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm High Quality @BBL H3C",
+      "layer_mm": 0.2,
+      "label": "High Quality",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.20mm Standard @BBL H3C",
+      "layer_mm": 0.2,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     },
+     {
+      "process_id": "0.24mm Standard @BBL H3C",
+      "layer_mm": 0.24,
+      "label": "Standard",
+      "initial_layer_mm": 0.2
+     }
+    ]
+   },
+   {
+    "nozzle": "0.6",
+    "printer_id": "Bambu Lab H3C 0.6 nozzle",
+    "process_id": "0.30mm Standard @BBL H3C 0.6 nozzle",
+    "dual": false,
+    "line_width_mm": 0.62,
+    "processes": [
+     {
+      "process_id": "0.18mm Balanced Quality @BBL H3C 0.6 nozzle",
+      "layer_mm": 0.18,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H3C 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
+      "process_id": "0.30mm Standard @BBL H3C 0.6 nozzle",
+      "layer_mm": 0.3,
+      "label": "Standard",
+      "initial_layer_mm": 0.3
+     }
+    ]
+   },
+   {
+    "nozzle": "0.8",
+    "printer_id": "Bambu Lab H3C 0.8 nozzle",
+    "process_id": "0.40mm Standard @BBL H3C 0.8 nozzle",
+    "dual": false,
+    "line_width_mm": 0.82,
+    "processes": [
+     {
+      "process_id": "0.24mm Balanced Quality @BBL H3C 0.8 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Quality @BBL H3C 0.8 nozzle",
+      "layer_mm": 0.32,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.40mm Standard @BBL H3C 0.8 nozzle",
+      "layer_mm": 0.4,
+      "label": "Standard",
+      "initial_layer_mm": 0.4
+     }
+    ]
+   }
+  ],
+  "code": "H3C"
+ }
+]

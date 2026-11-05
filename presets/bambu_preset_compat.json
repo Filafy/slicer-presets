@@ -1,0 +1,3849 @@
+{
+"profiles": "02.09.00.74",
+"presets": {
+"Bambu ABS @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu ABS @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu ABS @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu ABS @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu ABS @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu ABS @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu ABS @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu ABS @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu ABS @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu ABS @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu ABS @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu ABS @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu ABS @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu ABS @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu ABS @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu ABS @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu ABS @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu ABS @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu ABS @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu ABS @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu ABS @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu ABS @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu ABS @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu ABS @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu ABS @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu ABS @BBL P1S 0.4 nozzle": [
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu ABS @BBL P1S 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle"
+],
+"Bambu ABS @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu ABS @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu ABS @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu ABS @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu ABS @BBL X1C": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle"
+],
+"Bambu ABS @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Bambu ABS @BBL X1C 0.6 nozzle": [
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu ABS @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu ABS @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle"
+],
+"Bambu ABS @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu ABS @BBL X1E 0.8 nozzle": [
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu ABS @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu ABS @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu ABS @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu ABS @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu ABS @base": [],
+"Bambu ABS-GF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu ABS-GF @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu ABS-GF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu ABS-GF @base": [],
+"Bambu ASA @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu ASA @BBL A1 0.4 nozzle": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu ASA @BBL A1 0.6 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu ASA @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu ASA @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu ASA @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu ASA @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu ASA @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu ASA @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu ASA @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu ASA @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu ASA @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu ASA @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu ASA @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu ASA @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu ASA @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu ASA @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu ASA @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu ASA @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu ASA @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu ASA @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu ASA @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu ASA @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu ASA @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu ASA @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu ASA @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu ASA @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu ASA @BBL X1 0.2 nozzle": [
+"Bambu Lab X1 0.2 nozzle"
+],
+"Bambu ASA @BBL X1 0.6 nozzle": [
+"Bambu Lab X1 0.6 nozzle"
+],
+"Bambu ASA @BBL X1C": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu ASA @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle",
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Bambu ASA @BBL X1C 0.4 nozzle": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle"
+],
+"Bambu ASA @BBL X1E": [
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu ASA @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu ASA @BBL X1E 0.4 nozzle": [
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu ASA @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu ASA @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu ASA @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu ASA @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu ASA @base": [],
+"Bambu ASA-CF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL A1 0.6 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu ASA-CF @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu ASA-CF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu ASA-CF @base": [],
+"Bambu PA6-CF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PA6-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PA6-CF @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PA6-CF @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PA6-CF @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PA6-CF @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL X1C": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PA6-CF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PA6-CF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PA6-CF @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PA6-CF @base": [],
+"Bambu PA6-GF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PA6-GF @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PA6-GF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PA6-GF @base": [],
+"Bambu PC @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PC @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PC @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PC @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PC @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PC @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PC @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PC @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PC @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PC @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PC @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PC @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PC @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PC @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PC @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PC @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PC @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PC @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PC @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu PC @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PC @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu PC @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PC @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PC @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PC @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PC @BBL P1S": [
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu PC @BBL P1S 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle"
+],
+"Bambu PC @BBL P1S 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle"
+],
+"Bambu PC @BBL P1S 0.8 nozzle": [
+"Bambu Lab P1S 0.8 nozzle"
+],
+"Bambu PC @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PC @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PC @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PC @BBL X1C": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle"
+],
+"Bambu PC @BBL X1C 0.2 nozzle": [
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Bambu PC @BBL X1C 0.6 nozzle": [
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PC @BBL X1C 0.8 nozzle": [
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu PC @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PC @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PC @BBL X1E 0.6 nozzle": [
+"Bambu Lab X1E 0.6 nozzle"
+],
+"Bambu PC @BBL X1E 0.8 nozzle": [
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PC @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PC @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PC @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PC @base": [],
+"Bambu PET-CF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PET-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PET-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PET-CF @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PET-CF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PET-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PET-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PET-CF @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PET-CF @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PET-CF @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu PET-CF @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PET-CF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PET-CF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PET-CF @base": [],
+"Bambu PETG Basic @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL A1M 0.4 nozzle": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL A1M 0.8 nozzle": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL X1C": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle",
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PETG Basic @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PETG Basic @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PETG Basic @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PETG Basic @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PETG Basic @base": [],
+"Bambu PETG HF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PETG HF @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PETG HF @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PETG HF @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PETG HF @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PETG HF @BBL A1M 0.8 nozzle": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PETG HF @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PETG HF @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PETG HF @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PETG HF @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PETG HF @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PETG HF @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PETG HF @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PETG HF @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PETG HF @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PETG HF @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PETG HF @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PETG HF @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PETG HF @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PETG HF @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PETG HF @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PETG HF @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PETG HF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PETG HF @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PETG HF @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PETG HF @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PETG HF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu PETG HF @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PETG HF @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu PETG HF @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PETG HF @BBL P1P 0.4 nozzle": [
+"Bambu Lab P1P 0.4 nozzle"
+],
+"Bambu PETG HF @BBL P1S 0.4 nozzle": [
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu PETG HF @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PETG HF @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PETG HF @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PETG HF @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PETG HF @BBL X1C": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PETG HF @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle",
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PETG HF @BBL X1C 0.6 nozzle": [
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PETG HF @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PETG HF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PETG HF @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PETG HF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PETG HF @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PETG HF @base": [],
+"Bambu PETG Matte @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL A1M 0.4 nozzle": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL A1M 0.8 nozzle": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle",
+"Bambu Lab P1S 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL P1P 0.4 nozzle": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL X1C": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL X1C 0.2 nozzle": [
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL X1C 0.8 nozzle": [
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PETG Matte @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PETG Matte @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PETG Matte @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PETG Matte @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PETG Matte @base": [],
+"Bambu PETG Translucent @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL A1M 0.8 nozzle": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL X1C": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle",
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PETG Translucent @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PETG Translucent @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PETG Translucent @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PETG Translucent @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PETG Translucent @base": [],
+"Bambu PETG-CF @BBL A1 0.4 nozzle": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL A1M": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL A1M 0.4 nozzle": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL A2L": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL P1P": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL P1P 0.4 nozzle": [
+"Bambu Lab P1P 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL X1C": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PETG-CF @BBL X1C 0.4 nozzle": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PETG-CF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PETG-CF @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PETG-CF @base": [],
+"Bambu PLA Basic @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL P1S 0.4 nozzle": [
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL P1S 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL X1C": [
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL X1C 0.6 nozzle": [
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Basic @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PLA Basic @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Basic @BBL X2D 0.6 nozzle": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PLA Basic @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Basic @base": [],
+"Bambu PLA Galaxy @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Galaxy @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Galaxy @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Galaxy @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PLA Galaxy @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Galaxy @base": [],
+"Bambu PLA Glow @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Glow @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Glow @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Glow @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Glow @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Glow @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Glow @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL X1 0.2 nozzle": [
+"Bambu Lab X1 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Glow @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Glow @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Glow @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Glow @base": [],
+"Bambu PLA Marble @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Marble @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Marble @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Marble @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle"
+],
+"Bambu PLA Marble @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Marble @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Marble @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Marble @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Marble @base": [],
+"Bambu PLA Matte @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL P1S 0.4 nozzle": [
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL P1S 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL X1C": [
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL X1C 0.6 nozzle": [
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Matte @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PLA Matte @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PLA Matte @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Matte @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Matte @base": [],
+"Bambu PLA Silk @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Silk @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Silk @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Silk @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Silk @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Silk @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Silk @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PLA Silk @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Silk @base": [],
+"Bambu PLA Silk+ @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL A2L 0.4 nozzle": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL P1S 0.4 nozzle": [
+"Bambu Lab P1S 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL P1S 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL X1C": [
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Silk+ @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL X1C 0.6 nozzle": [
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PLA Silk+ @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PLA Silk+ @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Silk+ @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Silk+ @base": [],
+"Bambu PLA Sparkle @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Sparkle @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Sparkle @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Sparkle @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Sparkle @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Sparkle @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Sparkle @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Sparkle @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Sparkle @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Sparkle @base": [],
+"Bambu PLA Translucent @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL A1M 0.8 nozzle": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL H2C": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL H2C 0.6 nozzle": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL P1P 0.8 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Translucent @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Bambu PLA Translucent @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Translucent @BBL X2D 0.6 nozzle": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PLA Translucent @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Translucent @base": [],
+"Bambu PLA Wood @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA Wood @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA Wood @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL P1P 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA Wood @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle"
+],
+"Bambu PLA Wood @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA Wood @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA Wood @base": [],
+"Bambu PLA-CF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL A1 0.8 nozzle": [
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL A1M 0.8 nozzle": [
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL P1P 0.8 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL P2S 0.4 nozzle": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1E 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL X1C 0.8 nozzle": [
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PLA-CF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PLA-CF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PLA-CF @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PLA-CF @base": [],
+"Bambu PPA-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PPA-CF @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL X1C": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle"
+],
+"Bambu PPA-CF @BBL X1C 0.6 nozzle": [
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PPA-CF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PPA-CF @base": [],
+"Bambu PPS-CF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PPS-CF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PPS-CF @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PPS-CF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PPS-CF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PPS-CF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PPS-CF @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PPS-CF @base": [],
+"Bambu PVA @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu PVA @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Bambu PVA @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu PVA @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Bambu PVA @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle",
+"Bambu Lab A2L 0.6 nozzle",
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu PVA @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu PVA @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu PVA @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu PVA @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu PVA @BBL H2D 0.6 nozzle": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu PVA @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu PVA @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu PVA @BBL H2DP 0.6 nozzle": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu PVA @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu PVA @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu PVA @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu PVA @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu PVA @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu PVA @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu PVA @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Bambu PVA @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu PVA @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu PVA @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu PVA @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu PVA @BBL X1C 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Bambu PVA @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu PVA @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu PVA @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu PVA @base": [],
+"Bambu TPU 95A @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle",
+"Bambu Lab A2L 0.6 nozzle",
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu TPU 95A @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL X1C": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu TPU 95A @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu TPU 95A @base": [],
+"Bambu TPU 95A HF @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL A2L 0.6 nozzle": [
+"Bambu Lab A2L 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL A2L 0.8 nozzle": [
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2C 0.8 nozzle": [
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2D": [
+"Bambu Lab H2D 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2D 0.4 nozzle": [
+"Bambu Lab H2D 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2D 0.8 nozzle": [
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2DP": [
+"Bambu Lab H2D Pro 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2DP 0.4 nozzle": [
+"Bambu Lab H2D Pro 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2DP 0.8 nozzle": [
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2S 0.6 nozzle": [
+"Bambu Lab H2S 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL H2S 0.8 nozzle": [
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL P1S": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL P2S 0.6 nozzle": [
+"Bambu Lab P2S 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL P2S 0.8 nozzle": [
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL X1": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL X1C": [
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Bambu TPU 95A HF @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle"
+],
+"Bambu TPU 95A HF @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Bambu TPU 95A HF @BBL X2D 0.8 nozzle": [
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Bambu TPU 95A HF @base": [],
+"Generic ABS": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Generic ABS @0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Generic ABS @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic ABS @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Generic ABS @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic ABS @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Generic ABS @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic ABS @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic ABS @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Generic ABS @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic ABS @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Generic ABS @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Generic ABS @BBL H2S 0.4 nozzle": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic ABS @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Generic ABS @BBL H3C 0.4 nozzle": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic ABS @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic ABS @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Generic ABS @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic ABS @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Generic ABS @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic ABS @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Generic ABS @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic ABS @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Generic ABS @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic ABS @base": [],
+"Generic ASA": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Generic ASA @0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Generic ASA @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic ASA @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Generic ASA @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic ASA @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Generic ASA @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic ASA @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic ASA @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Generic ASA @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic ASA @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Generic ASA @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Generic ASA @BBL H2S 0.4 nozzle": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic ASA @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Generic ASA @BBL H3C 0.4 nozzle": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic ASA @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic ASA @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Generic ASA @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic ASA @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Generic ASA @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic ASA @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Generic ASA @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic ASA @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Generic ASA @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic ASA @base": [],
+"Generic PA": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic PA @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic PA @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic PA @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic PA @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic PA @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic PA @BBL H2S 0.4 nozzle": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic PA @BBL H3C 0.4 nozzle": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic PA @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic PA @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic PA @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic PA @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic PA @base": [],
+"Generic PC": [
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle"
+],
+"Generic PC @0.2 nozzle": [
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle"
+],
+"Generic PC @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic PC @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Generic PC @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic PC @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Generic PC @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic PC @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic PC @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Generic PC @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic PC @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Generic PC @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic PC @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Generic PC @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic PC @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Generic PC @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic PC @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Generic PC @BBL P1S": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle"
+],
+"Generic PC @BBL P1S 0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle"
+],
+"Generic PC @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic PC @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Generic PC @BBL X1E": [
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic PC @BBL X1E 0.2 nozzle": [
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Generic PC @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic PC @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Generic PC @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic PC @base": [],
+"Generic PETG": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic PETG @0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Generic PETG @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic PETG @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Generic PETG @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Generic PETG @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Generic PETG @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle",
+"Bambu Lab A2L 0.6 nozzle",
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Generic PETG @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Generic PETG @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic PETG @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Generic PETG @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic PETG @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic PETG @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Generic PETG @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic PETG @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Generic PETG @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic PETG @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Generic PETG @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic PETG @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Generic PETG @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic PETG @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Generic PETG @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic PETG @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Generic PETG @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic PETG @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Generic PETG @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic PETG @base": [],
+"Generic PLA": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic PLA @0.2 nozzle": [
+"Bambu Lab P1S 0.2 nozzle",
+"Bambu Lab X1 0.2 nozzle",
+"Bambu Lab X1 Carbon 0.2 nozzle",
+"Bambu Lab X1E 0.2 nozzle"
+],
+"Generic PLA @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic PLA @BBL A1 0.2 nozzle": [
+"Bambu Lab A1 0.2 nozzle"
+],
+"Generic PLA @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Generic PLA @BBL A1M 0.2 nozzle": [
+"Bambu Lab A1 mini 0.2 nozzle"
+],
+"Generic PLA @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle",
+"Bambu Lab A2L 0.6 nozzle",
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Generic PLA @BBL A2L 0.2 nozzle": [
+"Bambu Lab A2L 0.2 nozzle"
+],
+"Generic PLA @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic PLA @BBL H2C 0.2 nozzle": [
+"Bambu Lab H2C 0.2 nozzle"
+],
+"Generic PLA @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic PLA @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic PLA @BBL H2D 0.2 nozzle": [
+"Bambu Lab H2D 0.2 nozzle"
+],
+"Generic PLA @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic PLA @BBL H2DP 0.2 nozzle": [
+"Bambu Lab H2D Pro 0.2 nozzle"
+],
+"Generic PLA @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic PLA @BBL H2S 0.2 nozzle": [
+"Bambu Lab H2S 0.2 nozzle"
+],
+"Generic PLA @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle",
+"Bambu Lab H3C 0.6 nozzle",
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic PLA @BBL H3C 0.2 nozzle": [
+"Bambu Lab H3C 0.2 nozzle"
+],
+"Generic PLA @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic PLA @BBL P1P 0.2 nozzle": [
+"Bambu Lab P1P 0.2 nozzle"
+],
+"Generic PLA @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic PLA @BBL P2S 0.2 nozzle": [
+"Bambu Lab P2S 0.2 nozzle"
+],
+"Generic PLA @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic PLA @BBL X2D 0.2 nozzle": [
+"Bambu Lab X2D 0.2 nozzle"
+],
+"Generic PLA @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic PLA @base": [],
+"Generic TPU": [
+"Bambu Lab P1S 0.4 nozzle",
+"Bambu Lab P1S 0.6 nozzle",
+"Bambu Lab P1S 0.8 nozzle",
+"Bambu Lab X1 0.4 nozzle",
+"Bambu Lab X1 0.6 nozzle",
+"Bambu Lab X1 0.8 nozzle",
+"Bambu Lab X1 Carbon 0.4 nozzle",
+"Bambu Lab X1 Carbon 0.6 nozzle",
+"Bambu Lab X1 Carbon 0.8 nozzle",
+"Bambu Lab X1E 0.4 nozzle",
+"Bambu Lab X1E 0.6 nozzle",
+"Bambu Lab X1E 0.8 nozzle"
+],
+"Generic TPU @BBL A1": [
+"Bambu Lab A1 0.4 nozzle",
+"Bambu Lab A1 0.6 nozzle",
+"Bambu Lab A1 0.8 nozzle"
+],
+"Generic TPU @BBL A1M": [
+"Bambu Lab A1 mini 0.4 nozzle",
+"Bambu Lab A1 mini 0.6 nozzle",
+"Bambu Lab A1 mini 0.8 nozzle"
+],
+"Generic TPU @BBL A2L": [
+"Bambu Lab A2L 0.4 nozzle",
+"Bambu Lab A2L 0.6 nozzle",
+"Bambu Lab A2L 0.8 nozzle"
+],
+"Generic TPU @BBL H2C": [
+"Bambu Lab H2C 0.6 nozzle",
+"Bambu Lab H2C 0.8 nozzle"
+],
+"Generic TPU @BBL H2C 0.4 nozzle": [
+"Bambu Lab H2C 0.4 nozzle"
+],
+"Generic TPU @BBL H2D": [
+"Bambu Lab H2D 0.4 nozzle",
+"Bambu Lab H2D 0.6 nozzle",
+"Bambu Lab H2D 0.8 nozzle"
+],
+"Generic TPU @BBL H2DP": [
+"Bambu Lab H2D Pro 0.4 nozzle",
+"Bambu Lab H2D Pro 0.6 nozzle",
+"Bambu Lab H2D Pro 0.8 nozzle"
+],
+"Generic TPU @BBL H2S": [
+"Bambu Lab H2S 0.4 nozzle",
+"Bambu Lab H2S 0.6 nozzle",
+"Bambu Lab H2S 0.8 nozzle"
+],
+"Generic TPU @BBL H3C": [
+"Bambu Lab H3C 0.4 nozzle"
+],
+"Generic TPU @BBL H3C 0.6 nozzle": [
+"Bambu Lab H3C 0.6 nozzle"
+],
+"Generic TPU @BBL H3C 0.8 nozzle": [
+"Bambu Lab H3C 0.8 nozzle"
+],
+"Generic TPU @BBL P1P": [
+"Bambu Lab P1P 0.4 nozzle",
+"Bambu Lab P1P 0.6 nozzle",
+"Bambu Lab P1P 0.8 nozzle"
+],
+"Generic TPU @BBL P2S": [
+"Bambu Lab P2S 0.4 nozzle",
+"Bambu Lab P2S 0.6 nozzle",
+"Bambu Lab P2S 0.8 nozzle"
+],
+"Generic TPU @BBL X2D": [
+"Bambu Lab X2D 0.6 nozzle",
+"Bambu Lab X2D 0.8 nozzle"
+],
+"Generic TPU @BBL X2D 0.4 nozzle": [
+"Bambu Lab X2D 0.4 nozzle"
+],
+"Generic TPU @base": []
+}
+}
