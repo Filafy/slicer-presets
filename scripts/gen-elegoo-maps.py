@@ -63,8 +63,18 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PRESETS = ROOT / "presets"
 SERVER = ROOT / "server" / "src"  # Filafy's own source: not in the public presets repo
+
+
+def _first_app(*paths):
+    for p in paths:
+        if Path(p).is_dir():
+            return Path(p)
+    return Path(paths[0])
+
+
 APPS = {
-    "elegoo": {"label": "ElegooSlicer", "app": Path.home() / "Applications" / "ElegooSlicer.app",
+    "elegoo": {"label": "ElegooSlicer",
+               "app": _first_app("/Applications/ElegooSlicer.app", Path.home() / "Applications" / "ElegooSlicer.app"),
                "bin": "Contents/MacOS/ElegooSlicer", "map": "elegoo_map.json.gz"},
     "orca": {"label": "OrcaSlicer", "app": Path("/Applications/OrcaSlicer.app"),
              "bin": "Contents/MacOS/OrcaSlicer", "map": "elegoo_orca_map.json.gz"},
