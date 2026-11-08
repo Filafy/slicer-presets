@@ -367,6 +367,17 @@ def box_stl(path):
             fh.write(b"\0\0")
 
 
+def slicer_env(scratch):
+    """The whole environment a slicer process gets, built from nothing. Ours is
+    never passed on: it can hold a person's details, and a slicer's crash reporter
+    can upload its environment. HOME and TMPDIR are private folders in `scratch`."""
+    home = os.path.join(scratch, "home")
+    tmp = os.path.join(scratch, "tmp")
+    os.makedirs(home, exist_ok=True)
+    os.makedirs(tmp, exist_ok=True)
+    return {"PATH": "/usr/bin:/bin", "HOME": home, "TMPDIR": tmp + "/", "LC_ALL": "C"}
+
+
 def app_config(key, bundle, machine, process, filament, stl, scratch):
     """The complete config the app holds for these three presets."""
     d = tempfile.mkdtemp(dir=scratch)
@@ -376,13 +387,11 @@ def app_config(key, bundle, machine, process, filament, stl, scratch):
         fil = str(b["filament"][filament])
         exe = str(APPS[key]["dir"] / APPS[key]["bin"])
         if key == "creality":
-            tmp = os.path.join(d, "tmp")
-            os.makedirs(tmp)
+            env = slicer_env(d)
             args = [exe, "--cli", "--datadir", os.path.join(d, "dd"), "--load-settings", settings,
                     "--load-filaments", fil, "--slice", "0", "--outputdir", os.path.join(d, "out"), stl]
-            env = dict(os.environ, TMPDIR=tmp + "/")
             r = subprocess.run(args, cwd=d, env=env, capture_output=True, text=True, timeout=600)
-            out = os.path.join(tmp, "full_print_config.json")
+            out = os.path.join(env["TMPDIR"], "full_print_config.json")
             if not os.path.exists(out):
                 tail = [l for l in (r.stdout + r.stderr).splitlines() if "fail" in l.lower()][-2:]
                 raise RuntimeError(f"no full_print_config.json for {machine} / {process} / {filament} (rc {r.returncode}): {tail}")
@@ -397,7 +406,7 @@ def app_config(key, bundle, machine, process, filament, stl, scratch):
             out = os.path.join(d, "x.3mf")
             args = [exe, "--datadir", os.path.join(d, "dd"), "--load-settings", settings,
                     "--load-filaments", fil, "--export-3mf", out, stl]
-            r = subprocess.run(args, cwd=d, capture_output=True, text=True, timeout=600)
+            r = subprocess.run(args, cwd=d, env=slicer_env(d), capture_output=True, text=True, timeout=600)
             if os.path.exists(out):
                 cfg = json.loads(zipfile.ZipFile(out).read("Metadata/project_settings.config"))
                 for k, raw in clamped.items():

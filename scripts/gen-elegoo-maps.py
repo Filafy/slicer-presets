@@ -54,6 +54,7 @@ import collections
 import gzip
 import io
 import json
+import os
 import re
 import subprocess
 import sys
@@ -242,12 +243,23 @@ def project_version(key, bundle, machine, process, filament):
         out = t / "p.3mf"
         r = subprocess.run([str(app["app"] / app["bin"]), "--datadir", str(t / "dd"), "--load-settings",
                             f"{files[0]};{files[1]}", "--load-filaments", files[2], "--export-3mf", str(out),
-                            str(stl)], cwd=t, capture_output=True, text=True, timeout=300)
+                            str(stl)], cwd=t, env=slicer_env(tmp), capture_output=True, text=True, timeout=300)
         if r.returncode != 0 or not out.exists():
             die(f"{app['label']} CLI project export failed (rc {r.returncode})")
         import zipfile
         with zipfile.ZipFile(out) as z:
             return json.loads(z.read("Metadata/project_settings.config"))["version"]
+
+
+def slicer_env(scratch):
+    """The whole environment a slicer process gets, built from nothing. Ours is
+    never passed on: it can hold a person's details, and a slicer's crash reporter
+    can upload its environment. HOME and TMPDIR are private folders in `scratch`."""
+    home = os.path.join(scratch, "home")
+    tmp = os.path.join(scratch, "tmp")
+    os.makedirs(home, exist_ok=True)
+    os.makedirs(tmp, exist_ok=True)
+    return {"PATH": "/usr/bin:/bin", "HOME": home, "TMPDIR": tmp + "/", "LC_ALL": "C"}
 
 
 def require_readable(key):

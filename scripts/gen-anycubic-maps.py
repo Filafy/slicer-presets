@@ -138,6 +138,17 @@ def compatible(kind, name, machine):
     return machine in (r.get("compatible_printers") or [])
 
 
+def slicer_env(scratch):
+    """The whole environment a slicer process gets, built from nothing. Ours is
+    never passed on: it can hold a person's details, and a slicer's crash reporter
+    can upload its environment. HOME and TMPDIR are private folders in `scratch`."""
+    home = os.path.join(scratch, "home")
+    tmp = os.path.join(scratch, "tmp")
+    os.makedirs(home, exist_ok=True)
+    os.makedirs(tmp, exist_ok=True)
+    return {"PATH": "/usr/bin:/bin", "HOME": home, "TMPDIR": tmp + "/", "LC_ALL": "C"}
+
+
 def export(machine, process, filament, stl, scratch):
     """The project config Anycubic Slicer Next writes for these three presets."""
     d = tempfile.mkdtemp(dir=scratch)
@@ -147,7 +158,7 @@ def export(machine, process, filament, stl, scratch):
                 "--load-settings", f"{VENDOR}/machine/{machine}.json;{VENDOR}/process/{process}.json",
                 "--load-filaments", f"{VENDOR}/filament/{filament}.json",
                 "--export-3mf", out, str(stl)]
-        r = subprocess.run(args, capture_output=True, text=True, timeout=600)
+        r = subprocess.run(args, env=slicer_env(d), capture_output=True, text=True, timeout=600)
         if not os.path.exists(out):
             tail = [l for l in (r.stdout + r.stderr).splitlines() if "error" in l.lower()][-2:]
             raise RuntimeError(f"export failed for {machine} / {process} / {filament}: {tail}")

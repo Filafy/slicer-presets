@@ -241,6 +241,17 @@ def enable_models(datadir, targets):
     print(f"  enabled {len(targets)} models (and all vendor filaments) in the datadir copy")
 
 
+def slicer_env(scratch):
+    """The whole environment a slicer process gets, built from nothing. Ours is
+    never passed on: it can hold a person's details, and a slicer's crash reporter
+    can upload its environment. HOME and TMPDIR are private folders in `scratch`."""
+    home = os.path.join(scratch, "home")
+    tmp = os.path.join(scratch, "tmp")
+    os.makedirs(home, exist_ok=True)
+    os.makedirs(tmp, exist_ok=True)
+    return {"PATH": "/usr/bin:/bin", "HOME": home, "TMPDIR": tmp + "/", "LC_ALL": "C"}
+
+
 def query_profiles(datadir, printer):
     """PrusaSlicer's OWN answer to "what is compatible with this printer".
 
@@ -257,11 +268,12 @@ def query_profiles(datadir, printer):
     with tempfile.NamedTemporaryFile(suffix=".json", delete=False) as tf:
         out = tf.name
     try:
-        r = subprocess.run(
-            [str(PRUSA_CLI), "--datadir", str(datadir), "--printer-profile", printer,
-             "--query-print-filament-profiles", "--output", out],
-            capture_output=True, text=True, timeout=180,
-        )
+        with tempfile.TemporaryDirectory() as scratch:
+            r = subprocess.run(
+                [str(PRUSA_CLI), "--datadir", str(datadir), "--printer-profile", printer,
+                 "--query-print-filament-profiles", "--output", out],
+                env=slicer_env(scratch), capture_output=True, text=True, timeout=180,
+            )
         if not os.path.getsize(out):
             raise RuntimeError(f"query failed for {printer!r}: {r.stderr.strip()[:300]}")
         return json.load(open(out, encoding="utf-8")).get("print_profiles", [])
@@ -332,7 +344,8 @@ def save_config(datadir, printer, printcfg, filament, model_3mf):
             cmd += ["--printer-profile", printer, "--print-profile", printcfg,
                     "--material-profile", filament]
         cmd += ["--save", out, str(model_3mf)]
-        r = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
+        with tempfile.TemporaryDirectory() as scratch:
+            r = subprocess.run(cmd, env=slicer_env(scratch), capture_output=True, text=True, timeout=180)
         if not os.path.getsize(out):
             raise RuntimeError(f"--save produced nothing for {printer!r} / {filament!r}: {r.stderr.strip()[:300]}")
         cfg = {}
