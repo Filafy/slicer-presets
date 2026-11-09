@@ -58,8 +58,12 @@ ROOT = Path(__file__).resolve().parent.parent
 PRESETS = ROOT / "presets"
 SERVER = ROOT / "server" / "src"  # Filafy's own source: not in the public presets repo
 
-PRUSA_CLI = Path(
-    "/Applications/Original Prusa Drivers/PrusaSlicer.app/Contents/MacOS/PrusaSlicer"
+# The app on its own in /Applications first, then inside Prusa's drivers folder.
+PRUSA_CLI = next(
+    (p for p in (Path("/Applications/PrusaSlicer.app/Contents/MacOS/PrusaSlicer"),
+                 Path("/Applications/Original Prusa Drivers/PrusaSlicer.app/Contents/MacOS/PrusaSlicer"))
+     if p.exists()),
+    Path("/Applications/PrusaSlicer.app/Contents/MacOS/PrusaSlicer"),
 )
 DATADIR = Path.home() / "Library" / "Application Support" / "PrusaSlicer"
 VENDOR_INI = DATADIR / "vendor" / "PrusaResearch.ini"
