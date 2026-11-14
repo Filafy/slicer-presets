@@ -89,6 +89,32 @@
   },
   {
    "material": "ASA",
+   "type": "Aero",
+   "name": "Bambu ASA-Aero",
+   "filament_id": "GFB02",
+   "codes": [
+    "A1",
+    "H2C",
+    "H2D",
+    "H2DP",
+    "H2S",
+    "H3C",
+    "P1P",
+    "P2S",
+    "X1C",
+    "X2D"
+   ],
+   "density": "0.99",
+   "machine": {
+    "Bambu Lab X1 0.4 nozzle": "Bambu ASA-Aero @BBL X1C",
+    "Bambu Lab X1 0.6 nozzle": "Bambu ASA-Aero @BBL X1C",
+    "Bambu Lab X1 0.8 nozzle": "Bambu ASA-Aero @BBL X1C",
+    "Bambu Lab H2C 0.4 nozzle": "Bambu ASA-Aero @BBL H2C 0.4 nozzle",
+    "Bambu Lab X2D 0.4 nozzle": "Bambu ASA-Aero @BBL X2D 0.4 nozzle"
+   }
+  },
+  {
+   "material": "ASA",
    "type": "Basic",
    "name": "Bambu ASA",
    "filament_id": "GFB01",
@@ -673,6 +699,34 @@
     "Bambu Lab A2L 0.6 nozzle": "Bambu PETG Translucent @BBL A2L 0.6 nozzle",
     "Bambu Lab A2L 0.8 nozzle": "Bambu PETG Translucent @BBL A2L 0.8 nozzle",
     "Bambu Lab H3C 0.2 nozzle": "Bambu PETG Translucent @BBL H3C 0.2 nozzle"
+   }
+  },
+  {
+   "material": "PLA",
+   "type": "Aero",
+   "name": "Bambu PLA Aero",
+   "filament_id": "GFA11",
+   "codes": [
+    "A1",
+    "A1M",
+    "A2L",
+    "H2C",
+    "H2D",
+    "H2DP",
+    "H2S",
+    "H3C",
+    "P1P",
+    "P2S",
+    "X1",
+    "X1C",
+    "X2D"
+   ],
+   "density": "1.21",
+   "machine": {
+    "Bambu Lab H2C 0.4 nozzle": "Bambu PLA Aero @BBL H2C 0.4 nozzle",
+    "Bambu Lab X2D 0.4 nozzle": "Bambu PLA Aero @BBL X2D 0.4 nozzle",
+    "Bambu Lab A2L 0.6 nozzle": "Bambu PLA Aero @BBL A2L 0.6 nozzle",
+    "Bambu Lab A2L 0.8 nozzle": "Bambu PLA Aero @BBL A2L 0.8 nozzle"
    }
   },
   {

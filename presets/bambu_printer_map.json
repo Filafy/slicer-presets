@@ -1966,6 +1966,12 @@
       "initial_layer_mm": 0.3
      },
      {
+      "process_id": "0.24mm Balanced Quality @BBL H2C 0.6 nozzle",
+      "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.3
+     },
+     {
       "process_id": "0.24mm Balanced Strength @BBL H2C 0.6 nozzle",
       "layer_mm": 0.24,
       "label": "Balanced Strength",
@@ -1989,6 +1995,12 @@
      {
       "process_id": "0.24mm Balanced Quality @BBL H2C 0.8 nozzle",
       "layer_mm": 0.24,
+      "label": "Balanced Quality",
+      "initial_layer_mm": 0.4
+     },
+     {
+      "process_id": "0.32mm Balanced Quality @BBL H2C 0.8 nozzle",
+      "layer_mm": 0.32,
       "label": "Balanced Quality",
       "initial_layer_mm": 0.4
      },
